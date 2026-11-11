@@ -3,7 +3,7 @@
 ระบบสำรวจคุณภาพอากาศ PM2.5 ของประเทศไทย (รายวิชา 1145100 Data Science Toolbox)
 
 ## วิธีติดตั้ง
-conda env create -f environment.yml
+โหลดไฟล์ pyproject.toml แล้ว uv sync
 
 ## ผู้จัดทำ
-ชื่อ–สกุล รหัสนักศึกษา
+นางสาวจริยา คำภูแก้ว 67114540059
